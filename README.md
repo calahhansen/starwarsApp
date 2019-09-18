@@ -1,2 +1,0 @@
-# starwarsApp
-Created with CodeSandbox

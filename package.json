@@ -7,7 +7,7 @@
     "start": "nodemon server.js localhost 3002"
   },
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.17.3",
     "path": "0.12.7"
   },
   "devDependencies": {
